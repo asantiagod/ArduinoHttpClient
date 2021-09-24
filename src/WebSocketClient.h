@@ -6,7 +6,7 @@
 
 #include <Arduino.h>
 
-#include "HttpClient.h"
+#include "AHttpClient.h"
 
 static const int TYPE_CONTINUATION     = 0x0;
 static const int TYPE_TEXT             = 0x1;
